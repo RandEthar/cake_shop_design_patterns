@@ -1,4 +1,4 @@
-//concrete component
+//concrete product
 public class ChocolateCake extends Cake {
     public ChocolateCake() {
         description = "Chocolate Cake";

@@ -1,4 +1,4 @@
-//abstract component
+//abstract product
 public abstract class Cake {
 
     String description = "Unknown Cake";

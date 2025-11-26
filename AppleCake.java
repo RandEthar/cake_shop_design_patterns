@@ -1,4 +1,4 @@
-//concrete component
+//concrete product
 public class AppleCake  extends Cake {
 
     public AppleCake() {
