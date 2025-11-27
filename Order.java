@@ -11,7 +11,7 @@ public class Order {
     public Cake getCake() {
         return cake;
     }   
-    public  int getnumberOrder() {
+    public  int getNumberOrder() {
         return numberOrder;
     }
 

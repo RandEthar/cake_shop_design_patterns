@@ -20,7 +20,7 @@ public class CustomerDashboard implements Observer, DisplayElement {
     public void display() {
         System.out.println("Your order is ready: "
                 + order.getCake().getDescription()
-                + " (Order#" + order.getnumberOrder() + ")");
+                + " (Order#" + order.getNumberOrder() + ")");
     }
 
 }
